@@ -1,0 +1,26 @@
+{
+    "2": {
+        "name": "Banana",
+        "weight": 120,
+        "price": 0.8,
+        "color": "yellow"
+    },
+    "3": {
+        "name": "Orange",
+        "weight": 120,
+        "price": 1.0,
+        "color": "orange"
+    },
+    "4": {
+        "name": "Pear",
+        "weight": 140,
+        "price": 1.1,
+        "color": "yellow"
+    },
+    "5": {
+        "name": "Grape",
+        "weight": 100,
+        "price": 1.5,
+        "color": "violet"
+    }
+}
